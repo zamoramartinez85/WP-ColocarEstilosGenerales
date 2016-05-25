@@ -11,6 +11,8 @@
     <Page.Resources>
         <SolidColorBrush x:Key="MiColor" Color="Violet"/>
     </Page.Resources>
+    <!--Simplemente cambiando lo de arriba, cambiamos todos los estilos en los elementos que tengan
+    esta propiedad-->
     <Grid>
         <StackPanel Margin="30,30,0,0">
             <TextBlock Text="Nombre de la app"
